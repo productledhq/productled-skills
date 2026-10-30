@@ -16,7 +16,7 @@ The fix: pick the strongest of the three, say it with conviction, delete the oth
 
 ## Em dashes
 
-Max one per paragraph. Never chained. If reaching for a second, use a period and start a new sentence.
+Never. If you reach for one, use a period and start a new sentence, or use a comma or a colon.
 
 ## Other tells to rewrite on sight
 

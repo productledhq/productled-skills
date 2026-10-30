@@ -11,13 +11,13 @@ Install them once and your AI assistant knows how to apply the MOAT Framework, t
 The fastest way (installs into `.claude/skills/` in your project):
 
 ```bash
-npx skills add ProductLed/productled-skills
+npx skills add productledhq/productled-skills
 ```
 
 Or clone and copy the skills you want:
 
 ```bash
-git clone https://github.com/ProductLed/productled-skills.git
+git clone https://github.com/productledhq/productled-skills.git
 cp -r productled-skills/skills/* your-project/.claude/skills/
 ```
 
